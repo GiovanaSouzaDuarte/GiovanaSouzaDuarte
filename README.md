@@ -18,11 +18,9 @@
 
 ###
 
-<div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanasouzaduarte /)](https://www.linkedin.com/in/victorgomes-vg/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanasouzaduarte/)](https://www.linkedin.com/in/giovanasouzaduarte/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/georgiaduarte.cs/)](https://www.instagram.com/georgiaduarte.cs/)
-[![Gmail Badge](https://img.shields.io/badge/-victor.hugo.prado.gomes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.hugo.prado.gomes@gmail.com)](mailto:giovanasouzaduarte@gmail.com
-</div>
+[![Gmail Badge](https://img.shields.io/badge/giovanasouzaduarte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovanasouzaduarte@gmail.com)](mailto:giovanasouzaduarte@gmail.com)
 
 ###
 
