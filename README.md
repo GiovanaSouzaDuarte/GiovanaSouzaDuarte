@@ -19,8 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaSouzaDuarte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanaSouzaDuarte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanasouzaduarte /)](https://www.linkedin.com/in/victorgomes-vg/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/georgiaduarte.cs/)](https://www.instagram.com/georgiaduarte.cs/)
+[![Gmail Badge](https://img.shields.io/badge/-victor.hugo.prado.gomes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.hugo.prado.gomes@gmail.com)](mailto:giovanasouzaduarte@gmail.com
 </div>
 
 ###
