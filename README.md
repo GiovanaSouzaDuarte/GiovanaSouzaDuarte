@@ -18,12 +18,6 @@
 
 ###
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanasouzaduarte/)](https://www.linkedin.com/in/giovanasouzaduarte/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/georgiaduarte.cs/)](https://www.instagram.com/georgiaduarte.cs/)
-[![Gmail Badge](https://img.shields.io/badge/giovanasouzaduarte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovanasouzaduarte@gmail.com)](mailto:giovanasouzaduarte@gmail.com)
-
-###
-
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" href="https://www.instagram.com/georgiaduarte.cs/" height="35" alt="instagram logo"  />
