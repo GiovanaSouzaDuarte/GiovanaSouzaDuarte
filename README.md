@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Giovana Souza and I'm a FullStack Developer and avid reader , from São Paulo - Brasil</p>
 
 ###
 
